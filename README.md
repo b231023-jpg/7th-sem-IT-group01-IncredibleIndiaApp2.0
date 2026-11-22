@@ -2,7 +2,7 @@
 
 ---
 
-### 👨‍💻 Team Members
+###  Team Members
 
 | Name | Roll Number |
 | :--- | :--- |
@@ -11,5 +11,5 @@
 | **Shivansh Ajmera** | `23ESKIT156` |
 | **Sandesh Gupta** | `23ESKIT150` |
 
-### 🎓 Mentor
+###  Mentor
 * **Mr. Manoj Raman**
